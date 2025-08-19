@@ -4,35 +4,35 @@ A simple and responsive personal portfolio website built with HTML and CSS. This
 
 # 📌 Features
 
-Header Section
+# Header Section
 
 Displays your name or logo at the top.
 
 Includes a short tagline or introduction.
 
-About Section
+# About Section
 
 Contains an image of yourself.
 
 Short bio highlighting skills, background, and experience.
 
-Skills Section
+# Skills Section
 
 Lists key skills and areas of expertise.
 
-Projects Section
+# Projects Section
 
 Showcases sample projects with titles, descriptions, and images.
 
-Resume Section
+# Resume Section
 
 Downloadable PDF version of your resume.
 
-Contact Section
+# Contact Section
 
 Provides email, phone number, or links to professional profiles.
 
-Footer
+# Footer
 
 Copyright notice and additional useful links.
 
